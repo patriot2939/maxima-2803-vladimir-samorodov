@@ -1,0 +1,17 @@
+header{
+    background-color: blueviolet;
+}
+.card1{
+    margin: 0 auto;
+    text-align: center;
+}
+.fl1{
+    height: 300px;
+}
+.contener{
+    text-align: center;
+    margin: 100px 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
